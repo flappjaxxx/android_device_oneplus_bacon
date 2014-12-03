@@ -1,5 +1,15 @@
 [
   {
+    "repository": "TheMuppets/proprietary_vendor_oneplus",
+    "target_path": "vendor/oneplus",
+    "revision": "cm-12.0"
+  },
+  {
+    "repository": "TheMuppets/proprietary_vendor_oppo",
+    "target_path": "vendor/oppo",
+    "revision": "cm-12.0"
+  },
+  {
     "repository": "android_device_oppo_msm8974-common",
     "target_path": "device/oppo/msm8974-common"
   }
